@@ -2,7 +2,7 @@
 - 👀 I’m interested in humanity problems
 - 🌱 I’m currently learning AI n DS
 - 📫 you can reach me through
-- mail id : hariommali34@gmail.com / malishreelal@gmail.com
+
 - https://t.me/Hariompc1
 
 <!---
