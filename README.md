@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Hari Om Mali and I'm a Problem solver, from Bangalore, IND</h2>
+<h2 align="left">Hi 👋! My name is Hari Om Mali from Bangalore, KA, IND</h2>
 
 ###
 
